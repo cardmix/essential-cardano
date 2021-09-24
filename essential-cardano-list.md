@@ -539,6 +539,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Improve and Grow Auditability](http://app.ideascale.com/t/UM5UZBinJ)
 - [ErgoDex Plutus Port](http://app.ideascale.com/t/UM5UZBisN)
 - [Cardol.io: Portfolio Tracker](https://cardano.ideascale.com/a/dtd/Cardol-io-Portfolio-Tracker/370255-48088)
+- [Cardano Mixer: Private Transactions on Cardano](https://cardmix.io)
 
 ## Starting a Stake Pool ##
 - [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
